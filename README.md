@@ -1,15 +1,16 @@
 # london
 Python analysis of London housing prices from 1995 to 2016 (part of TQG2 courses, MSG1 - Solvay Business School 2018)
 
-Code summary :
- - Exponential smoothening
+Code summary (nb-UK.ipynb):
  - Univariate linear regression
  - Univariate exponential regression
  - Univariate logreg
  - Holt-Winter
  - Multivariate regression (see doc.pdf for included factors)
+ - Trends decomposition and seasonal factor computation
  - ACF and PACF
- - Arima model (autotraining)
+ - stationnarity induction : ordinal difference, saisonal difference, combined, 2nd order combined
+ - Arima model (autotraining, on 3 datasets : residual from the trend decomposition - 2nd order+saisonal difference - automated sarima)
  
- All the code is avalaibla as a Jupyter notebook (london. ).
+ All the code is avalaibla as a Jupyter notebook (nb-UK.ipynb).
  Detailed analysis avalaible in French only (doc.pdf), if any translation needed, feel free to ask me : simon.van@gmail.com
