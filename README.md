@@ -13,5 +13,5 @@ Code summary (nb-UK.ipynb):
  - Arima model (autotraining, on 3 datasets : residual from the trend decomposition - 2nd order+saisonal difference - automated sarima)
  
  All the code is avalaibla as a Jupyter notebook (nb-UK.ipynb).
- Detailed analysis avalaible in French only (analyse.pdf), if any translation needed, feel free to ask me : simon.van@gmail.com
+ Detailed analysis avalaible in French only (analyse.pdf), if any translation needed, feel free to ask me
  - some part of the analysis done with Time Series Expert (see www.itse.be)
