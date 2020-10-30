@@ -1,5 +1,5 @@
 # london
-Python analysis of London housing prices from 1995 to 2016 (part of TQG2 courses, MSG1 - Solvay Business School 2018)
+Python analysis of London housing prices from 1995 to 2016
 
 Code summary (nb-UK.ipynb):
  - Univariate linear regression
